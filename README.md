@@ -43,6 +43,8 @@ The app supports **English and Arabic**, includes **RTL layout handling**, and p
 ```bash
 git clone https://github.com/your-username/stroke-risk-ai.git
 cd stroke-risk-ai
+git lfs install
+git lfs pull
 ```
 
 ### 2️⃣ Create a virtual environment (recommended
